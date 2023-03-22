@@ -1,2 +1,2 @@
-# rsschool-cv
+# https://melihovodina.github.io/rsschool-cv/cv
  
